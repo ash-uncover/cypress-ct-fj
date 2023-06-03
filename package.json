@@ -1,5 +1,5 @@
 {
-  "name": "@uncover/cypress-ct-fj",
+  "name": "@uncover/cypress-ct-flapjack",
   "version": "0.0.1",
   "description": "Flapjack Framework Definition adapter for Cypress Component Testing",
   "exports": {

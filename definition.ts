@@ -34,7 +34,7 @@ export default defineComponentFramework({
    * by Cypress is `cypress-ct-*` for global packages, or
    * `@org/cypress-ct-*` for organization level packages.
    */
-  type: '@flapjack/cypress-ct-flapjack',
+  type: '@uncover/cypress-ct-flapjack',
 
   /**
    * The label that shows up when configuring Component Testing
