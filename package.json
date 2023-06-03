@@ -1,6 +1,6 @@
 {
   "name": "@uncover/cypress-ct-flapjack",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Flapjack Framework Definition adapter for Cypress Component Testing",
   "exports": {
     "node": "./definition.js",
